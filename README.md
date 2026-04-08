@@ -40,7 +40,7 @@ Analysis of organizational revenue and salary allocation data from Excel sources
 
 **Location**: `Revenue Tracker/`
 
-**Task 1** - `task 1/task1.ipynb` & `task1.py`
+**Task 1** - `task 1/task1.py`
 - Extracts revenue metrics and salary allocation from Excel sheets (Delta3_Apr.xlsx)
 - Analyzes:
   - Revenue and revenue percentage
