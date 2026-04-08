@@ -1,0 +1,12 @@
+[
+  {"Product Name": "Laptop Pro", "Category": "Electronics", "Price": 75000, "Stock": 120, "Rating": 4.5},
+  {"Product Name": "Wireless Mouse", "Category": "Electronics", "Price": 1200, "Stock": null, "Rating": 4.2},
+  {"Product Name": "Office Chair", "Category": "Furniture", "Price": 15000, "Stock": 45, "Rating": null},
+  {"Product Name": "Laptop Pro", "Category": "Electronics", "Price": 75000, "Stock": 120, "Rating": 4.5},
+  {"Product Name": "Standing Desk", "Category": "Furniture", "Price": null, "Stock": 30, "Rating": 4.7},
+  {"Product Name": "USB Hub", "Category": "Electronics", "Price": 899, "Stock": 200, "Rating": 4.0},
+  {"Product Name": "Monitor 27inch", "Category": "Electronics", "Price": 28000, "Stock": 60, "Rating": 4.6},
+  {"Product Name": "Keyboard", "Category": null, "Price": 3500, "Stock": 150, "Rating": 4.3},
+  {"Product Name": "Webcam HD", "Category": "Electronics", "Price": 5000, "Stock": null, "Rating": 4.1},
+  {"Product Name": "Laptop Stand", "Category": "Accessories", "Price": 2200, "Stock": 80, "Rating": 4.4}
+]

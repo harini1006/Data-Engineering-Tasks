@@ -1,0 +1,16 @@
+User Name,Age,Email Address,Phone Number,City,Salary
+Alice Johnson,28,alice@email.com,9876543210,Chennai,55000
+Bob Smith,34,bob@email.com,8765432109,Mumbai,72000
+Alice Johnson,28,alice@email.com,9876543210,Chennai,55000
+Carol White,,carol@email.com,7654321098,Delhi,48000
+David Brown,45,david@email.com,,Bangalore,91000
+Eve Davis,29,eve@email.com,6543210987,Hyderabad,63000
+Frank Wilson,38,frankwilson,5432109876,Chennai,57000
+Grace Lee,31,,4321098765,Mumbai,69000
+Hank Moore,52,hank@email.com,3210987654,Delhi,
+Ivy Taylor,27,ivy@email.com,2109876543,Bangalore,44000
+Bob Smith,34,bob@email.com,8765432109,Mumbai,72000
+Jack Anderson,41,jack@email.com,1098765432,Hyderabad,83000
+Karen Thomas,,karen@email.com,,Chennai,52000
+Leo Jackson,36,leo@email.com,9988776655,Mumbai,76000
+Mia White,25,mia@email.com,8877665544,Delhi,41000

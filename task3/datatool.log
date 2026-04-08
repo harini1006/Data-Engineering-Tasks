@@ -1,0 +1,14 @@
+2026-04-08 11:34:13 [INFO] Session ended by user.
+2026-04-08 11:53:13 [INFO] ingest called with: sample_data.csv
+2026-04-08 11:53:13 [INFO] Ingested sample_data.csv: 15 rows, 6 columns
+2026-04-08 11:53:40 [INFO] validate called with: sample_data.csv
+2026-04-08 11:53:41 [INFO] Validated sample_data.csv: 5 issue(s) found.
+2026-04-08 11:54:26 [INFO] transform called with: sample_data.csv -> cleaned_output.csv
+2026-04-08 11:54:26 [INFO] Transformed sample_data.csv -> cleaned_output.csv: 2 dups removed, 6 nulls handled.
+2026-04-08 11:54:52 [INFO] ingest called with: sample_data.json
+2026-04-08 11:54:52 [INFO] Ingested sample_data.json: 10 rows, 5 columns
+2026-04-08 11:55:06 [INFO] validate called with: sample_data.json
+2026-04-08 11:55:06 [INFO] Validated sample_data.json: 5 issue(s) found.
+2026-04-08 11:55:26 [INFO] transform called with: sample_data.json -> cleaned_output.json
+2026-04-08 11:55:26 [INFO] Transformed sample_data.json -> cleaned_output.json: 1 dups removed, 5 nulls handled.
+2026-04-08 11:55:29 [INFO] Session ended via exit command.
