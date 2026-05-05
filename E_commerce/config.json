@@ -1,0 +1,56 @@
+{
+  "paths": {
+    "input_path": "/Volumes/data_engineering/task_schema/training_dataset/dataset/",
+    "output_path": "/Volumes/data_engineering/task_schema/training_dataset/output/"
+  },
+
+  "processing": {
+    "infer_schema": true,
+    "header": true
+  },
+
+  "transformations": {
+    "currency": [
+      "price"
+    ],
+    "percentage": [
+      "discount"
+    ],
+    "rank": [
+      "rank_title"
+    ],
+    "k_values": [
+      "selling_proposition"
+    ]
+  },
+
+  "fillna": {
+    "numeric": 0
+  },
+
+  "cleanup": {
+    "drop_columns": [
+      "rank_sub_num"
+    ]
+  },
+
+  "quality": {
+    "numeric_columns": [
+      "price_usd",
+      "pct_discount",
+      "rank_title_num",
+      "qty_sold"
+    ],
+    "duplicate_key": "goods_title_link_jump_href",
+    "key_columns": [
+      "goods_title_link_jump",
+      "goods_title_link_jump_href",
+      "price_usd"
+    ]
+  },
+
+  "output": {
+    "format": "parquet",
+    "mode": "overwrite"
+  }
+}
